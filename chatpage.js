@@ -69,8 +69,6 @@ const ChatPage = ({ route, navigation }) => {
   setLoading(false);
 };
 
-
-
   const isSendDisabled = loading || !userInput.trim();
 
   return (
