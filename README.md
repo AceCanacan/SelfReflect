@@ -2,6 +2,8 @@
 
 _An AI-powered journaling app that uses the OpenAI API. Dive deep into introspection with the help of a chatbot._
 
+![Simulator Screen Shot - iPhone 14 Pro Max - 2023-09-16 at 12 23 26](https://github.com/AceCanacan/SelfReflect/assets/110709199/64a5e749-b59f-4430-8532-0fbed639e236)
+
 ## 📌 Table of Contents
 - [📖 Project Description](#-project-description)
 - [🔧 Installation](#-installation)
